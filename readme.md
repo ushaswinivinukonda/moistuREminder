@@ -44,7 +44,7 @@ An automated IoT-based smart gardening and irrigation system built using an **ES
 
 ## 🔌 Pin Configuration
 
-![alt text](<Screenshot 2026-11-18 215255.png>)
+![alt text](<pin config.png>)
 
 ---
 
@@ -75,11 +75,11 @@ An automated IoT-based smart gardening and irrigation system built using an **ES
 
 ###  Kodular Mobile App Interface & Logic
 
-![alt text](<Screenshot 2026-11-18 213606.png>)
-![alt text](<Screenshot 2026-11-18 213632.png>)
+![alt text](<designer view.png>)
+![alt text](<block view.png>)
 
 ## Hardware Prototype & Live Testing
-![alt text](<Screenshot 2026-11-18 213657.png>)
+![alt text](<deployement.png>)
 
 
 ```
